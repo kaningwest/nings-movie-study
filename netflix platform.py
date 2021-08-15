@@ -32,7 +32,7 @@ fig8 = px.scatter(rev, x = "IMDb", y = "percento", color = 'Year')
 if options == 'Introduction':
     st.title("Introduction")
     rev.iloc[:,1:]
-    st.markdown("This is the dataset used. The title column shows the movie's title, the year shows in which year the movie is released, the age shows its suitable groups, its ")
+    st.markdown("This is the dataset used.")
 
 if options == "Platform Info":
     st.title("Platform Info")
