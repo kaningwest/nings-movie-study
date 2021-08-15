@@ -1,0 +1,6 @@
+REQUIREMENTS:
+  pandas 1.2.5
+  plotly_express 0.4.1
+  streamlit 0.81.1
+CSV Adress:
+https://www.kaggle.com/ruchi798/movies-on-netflix-prime-video-hulu-and-disney
