@@ -123,5 +123,3 @@ if options == "Conclusion":
         st.plotly_chart(fig8)
     st.subheader("Genres")
     st.markdown("Of the four streaming platforms, Netflix, Hulu, and Amazon Prime all had drama as their most common genre. However, for Disney+, its most common genre is family. This could be because that Disney+ is mainly made for kids and people of all ages to watch, while the rest are mainly focusing on their invested drama series.")
-
-#Hi Westminster College can I have an offer(im just sayin')
